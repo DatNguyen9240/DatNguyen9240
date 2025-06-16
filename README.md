@@ -1,7 +1,10 @@
 # Hello, My name is Đạt 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+My+name+is+%C4%90%E1%BA%A1t;I+am+a+Software+Engineer;I+love+using+new+technologies" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1200&color=007ACC&center=true&vCenter=true&width=800&height=100&lines=Hello%2C+My+name+is+%C4%90%E1%BA%A1t;I+am+a+Software+Engineer;I+love+using+new+technologies" 
+    alt="Typing SVG" 
+  />
 </div>
 
 # 💻Tech Stack
